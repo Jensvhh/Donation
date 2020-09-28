@@ -1,0 +1,8 @@
+main: me.siaco.combodonation.Main
+name: ComboDonation
+version: 1.0
+author: Siaco
+description: ComboDonation
+commands:
+  donation:
+      usage: /<command>
